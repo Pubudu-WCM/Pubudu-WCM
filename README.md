@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pubudu WCM
-- 👀 I’m interested in Front End devoloping and UI/UX Engineering
+- 👀 I’m interested in Full stack desktop and web application development.
 - 🌱 I’m currently learning Sri Lanka Technological Campus
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
