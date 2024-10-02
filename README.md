@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BioCode2000
+- 👋 Hi, I’m Pubudu WCM
 - 👀 I’m interested in Front End devoloping and UI/UX Engineering
-- 🌱 I’m currently learning University of Ruhuna
+- 🌱 I’m currently learning Sri Lanka Technological Campus
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
