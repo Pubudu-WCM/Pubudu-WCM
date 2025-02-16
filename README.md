@@ -6,7 +6,7 @@
 
 
 - <h2>Languages and Frameworks</h2>
-[![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,mongodb,azure,html,css,react,javascript,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,mongodb,azure,html,css,react,spring,javascript,flutter&perline=3)](https://skillicons.dev)
 
 - <h2>Tools</h2>
 
