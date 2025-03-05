@@ -1,6 +1,6 @@
 
 - <h1 align:"center">👋 Hi there, I’m Pubudu WCM </h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Pubudu+Lakshan+Waniga+Chinthamani+Mohotti;From+Hambantota,+Sri+Lanka.;(UG)+sri Lanaka+Technological+Campus;Bye+%F0%9F%91%8B%2C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Pubudu+Lakshan+WCM;From+Hambantota,+Sri+Lanka.;(UG)+University+Of+Colombo+School+Of+Computing;Bye+%F0%9F%91%8B%2C)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Dilum+Induwara+Rathnayake;From+Hambantota,+Sri+Lanka.;(UG)+University+Of+Colombo+School+Of+Computing;Bye+%F0%9F%91%8B%2C)](https://git.io/typing-svg)
 
